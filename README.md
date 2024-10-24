@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Pundora</h1>
 
-A passionate developer from India.
+<h3 align="center">A passionate developer from India.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 - 💬 Ask me about **Node.js, React, MongoDB**
@@ -31,10 +31,10 @@ A passionate developer from India.
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
 ### GitHub Stats:
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&icon_color=000000&title_color=000000&text_color=000000&bg_color=FFFFFF)
+![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhayPundora&show_icons=true&icon_color=000000&title_color=000000&text_color=000000&bg_color=FFFFFF)
 
 
