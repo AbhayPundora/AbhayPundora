@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abhay Pundora
 
-<!--
-**AbhayPundora/AbhayPundora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌟 **Third-year BCA Student** at HNB University.
+- 💻 Aspiring **Full Stack Developer**.
+- 🌱 Currently learning **Flask**, **Data Structures & Algorithms**, and exploring **Blockchain Development**.
+- 🔭 Working on [Highbook](#), a **book feedback platform**.
+- 🎯 **Goal:** Become a proficient web developer in 8 months.
 
-Here are some ideas to get you started:
+## My Skills
+- **Languages:** C++, Java, JavaScript, Python
+- **Frameworks:** React, Flask, Node.js
+- **Databases:** PostgreSQL, MongoDB
+- **Other Tools:** Git, Docker, Nightwatch.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- ✉️ Email: [abhaypundora17@gmail.com](mailto:abhaypundora17@gmail.com)
+- 📞 Phone: +91 6399475038
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abhaypundora/) | [Twitter](#)
+
+## Current Projects
+1. **Highbook**: A platform for sharing book reviews and feedback.
+2. **Document Suggestion System**: Helps users access top-rated documents or websites based on user ratings.
+
+
+
+---
