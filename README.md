@@ -4,7 +4,7 @@
 - 🌟 **Third-year BCA Student** at HNB University.
 - 💻 Aspiring **Full Stack Developer**.
 - 🌱 Currently learning **Flask**, **Data Structures & Algorithms**, and exploring **Blockchain Development**.
-- 🔭 Working on [Highbook](#), a **book feedback platform**.
+- 🔭 Working on [Highbook](https://github.com/AbhayPundora/highbook), a **book feedback platform**.
 - 🎯 **Goal:** Become a proficient web developer in 8 months.
 
 ## My Skills
