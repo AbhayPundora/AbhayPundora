@@ -8,7 +8,8 @@
 - 📚 Currently learning: **Python**, **Data Structures & Algorithms**
 - 🔧 Working on [Highbook](https://github.com/AbhayPundora/highbook) – a book feedback platform
 - ⏳ **Goal:** To become a job-ready Full Stack Developer by mastering core skills, building real-world projects, and contributing to open source.
-- 📈 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhayPundora&theme=default)
+- 📈
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhayPundora&theme=default)
 
 ---
 
@@ -39,7 +40,6 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://seeklogo.com/images/N/nightwatch-js-logo-DBF3C1AE6C-seeklogo.com.png" width="40" />
 </p>
 
 ---
